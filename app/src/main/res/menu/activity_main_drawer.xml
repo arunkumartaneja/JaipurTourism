@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:titleCondensed="@string/app_name" />
+        <item
+            android:id="@+id/nav_fort"
+            android:title="@string/forts"
+            android:titleCondensed="Forts" />
+        <item
+            android:id="@+id/nav_cultural"
+            android:title="@string/cultural_places"
+            android:titleCondensed="Cultural" />
+        <item
+            android:id="@+id/nav_historical"
+            android:title="@string/historical_places"
+            android:titleCondensed="Historical" />
+        <item
+            android:id="@+id/nav_palaces"
+            android:title="@string/palaces"
+            android:titleCondensed="Palace" />
+
+        <item
+            android:id="@+id/nav_museums"
+            android:title="@string/museums"
+            android:titleCondensed="Museums" />
+
+        <item
+            android:id="@+id/nav_temples"
+            android:title="@string/temples"
+            android:titleCondensed="Temples" />
+    </group>
+
+
+</menu>
