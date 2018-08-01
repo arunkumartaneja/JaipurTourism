@@ -27,12 +27,16 @@
     <string name="jal_mahal">Jal Mahal</string>
     <string name="albert_hall">Albert Hall</string>
     <string name="rambagh_place">Rambagh Palace</string>
+    <string name="fort">Forts</string>
+    <string name="museum">Museums</string>
+
     <string name="cultural">Cultural</string>
     <string name="historical">Historical</string>
     <string name="tamples">Temples</string>
     <string name="forts">Forts</string>
     <string name="palace">Palace</string>
     <string name="museums">Museums</string>
+
     <string name="opening_hours">Opening hours</string>
 
     <string name="amber_fort_description">Renowned for its combination of Hindu and Mughal architecture, the Amber Fort is located about 11 km from Jaipur in Rajasthan. The citadel was the seat of the Kachhawa Rajputs who ruled Amer in Rajasthan before the capital was moved to the present day Jaipur. The construction of the fort was commenced in 1592 by Raja Man Singh I over the remnants of an earlier fortified structure. The fort was built with red sandstone. It was modified by successive rulers for 150 next years.</string>

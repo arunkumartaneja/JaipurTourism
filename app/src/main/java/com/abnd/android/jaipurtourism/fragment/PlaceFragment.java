@@ -43,7 +43,7 @@ public class PlaceFragment extends Fragment {
             menuId = getArguments().getInt(Constants.MENU_ID_KEY);
             FragmentActivity activity = getActivity();
             if (activity != null) {
-                activity.setTitle(mCategoryTitle + " in Jaipur");
+                activity.setTitle(mCategoryTitle);
             }
         }
     }
@@ -89,7 +89,7 @@ public class PlaceFragment extends Fragment {
         if (activity != null) {
             NavigationView navigationView = activity.findViewById(R.id.nav_view);
             navigationView.setCheckedItem(menuId);
-            activity.setTitle(mCategoryTitle + " in Jaipur");
+            activity.setTitle(mCategoryTitle);
         }
     }
 

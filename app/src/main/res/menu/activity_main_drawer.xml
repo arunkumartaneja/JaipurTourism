@@ -10,7 +10,7 @@
             android:titleCondensed="@string/app_name" />
         <item
             android:id="@+id/nav_fort"
-            android:title="@string/forts"
+            android:title="@string/fort"
             android:titleCondensed="Forts" />
         <item
             android:id="@+id/nav_cultural"
@@ -27,7 +27,7 @@
 
         <item
             android:id="@+id/nav_museums"
-            android:title="@string/museums"
+            android:title="@string/museum"
             android:titleCondensed="Museums" />
 
         <item
